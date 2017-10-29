@@ -1,6 +1,10 @@
 # asu-timetable-tgbot
 Simple time schedule table bot for [ASU](http://mkr.org.ua/) for telegram. 
 
+## Screenshots
+![screenshot](https://raw.githubusercontent.com/intel777/asu-timetable-tgbot/master/screenshots/Telegram_2017-10-29_20-53-22.png)
+![screenshot](https://raw.githubusercontent.com/intel777/asu-timetable-tgbot/master/screenshots/Telegram_2017-10-29_20-54-39.png)
+
 ## Depends on 
 * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 * [xlrd](https://pypi.python.org/pypi/xlrd)
