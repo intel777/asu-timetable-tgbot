@@ -21,7 +21,7 @@ All can be easily installed by
 This function will help you get schedule by '/table' command listed below
 
 Firstly, change variable **tg_token** to one that [Botfather](https://t.me/botfather) had gived to you.
-Next, you need some information from ASU system that you university using. Open ASU, select your schedule, open developers tools, goto "network" tab, refresh page and see what POST parameters had been sended. Replace **data** dictionary with that info. Then copy URL of schedule page in **url** variable. 
+Next, you need some information from ASU system that your university using. Open ASU, select your schedule, open developers tools, goto "network" tab, refresh page and see what POST parameters had been sended. Replace **data** dictionary with that info. Then copy URL of schedule page in **url** variable. 
 
 ### updateprocessor module
 This module will check for scheude updates every hour and if exists, send you .xml document of schedule, also can be used to send schedule(like /table function) by specific time
